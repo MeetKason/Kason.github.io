@@ -11414,3 +11414,6 @@ figure.highlight .section {
 #st-cmp-v2 {
   display: none !important;
 }
+#tidio-chat-iframe {
+  bottom: 80px !important;
+}
